@@ -3,6 +3,6 @@ Modelo de gravedad estructural para evaluar políticas comerciales basado en el 
 
 Script optimizado para STATA 14
 
-Elaborado por: Juan José Almeida ALmeida
+Elaborado por: Juan José Almeida Almeida
 
 
